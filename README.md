@@ -1,2 +1,3 @@
 # myfirstgithubpro
-第一个github项目仅作为github的使用研究
+第一个GitHub上的项目仅作为github上上的使用研究
+发展分支
